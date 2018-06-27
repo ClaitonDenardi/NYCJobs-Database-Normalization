@@ -14,5 +14,3 @@
 4.  NYCJobs_normalizado_dml.sql (Copia dados da tabela desnormalizada)
 
 5.  NYCJobs_normalizado_dml2.sql (Corrige tabela após a cópia dos dados)
-
-![Logo Workbench](https://www.google.com.br/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwistZSToOrbAhVIi5AKHZnhApMQjRx6BAgBEAU&url=https%3A%2F%2Fsempreupdate.com.br%2Fcomo-instalar-o-mysql-workbench-no-ubuntu%2F&psig=AOvVaw2YNa5B8Gx5HTfYhKT0kIf-&ust=1529859299357785)
